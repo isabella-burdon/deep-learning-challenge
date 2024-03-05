@@ -1,6 +1,6 @@
 # deep-learning-challenge
 
-# Report:
+## Report:
 
 Overview of the analysis: Explain the purpose of this analysis.
 
