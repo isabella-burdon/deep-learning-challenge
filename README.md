@@ -2,7 +2,7 @@
 
 ## Report:
 
-Overview of the analysis: Explain the purpose of this analysis.
+### Overview of the analysis: Explain the purpose of this analysis.
 
 Results: Using bulleted lists and images to support your answers, address the following questions:
 
